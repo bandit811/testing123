@@ -2,4 +2,4 @@
 
 * Let's try an initial commit.
 
-* Now a conflict.
+* This line should only be in the sensitivity_analysis branch!
